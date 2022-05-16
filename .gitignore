@@ -1,0 +1,3 @@
+week-1/docker-sql/ny_taxi_postgres_data
+*.csv
+*.parquet
